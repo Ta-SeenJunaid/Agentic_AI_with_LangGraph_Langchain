@@ -1,0 +1,4 @@
+langchain==0.3.25
+langgraph==0.4.8
+langchain-core==0.3.65
+langchain-community==0.3.25
