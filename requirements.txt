@@ -1,6 +1,8 @@
-langchain==0.3.25
-langgraph==0.4.8
-langchain-core==0.3.65
-langchain-community==0.3.25
+langchain==0.3.26
+langgraph==0.6.3
+langchain-core==0.3.73
+langchain-community==0.3.26
 python-dotenv==1.1.0
-langchain-groq==0.3.2
+langchain-groq==0.3.6
+ipykernel==6.30.0
+pypdf==5.9.0
