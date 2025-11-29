@@ -1,3 +1,25 @@
-venv
-.env
+# Ignore system files
 Data/ignore
+
+# VS Code settings
+.vscode/
+
+# Python cache files
+Agentic_chatbot/src/**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit cache (if applicable)
+.streamlit/
+
+# UI config file you don’t want to commit
+Agentic_chatbot/src/langgraph_agentic_ai/ui/uiconfigfile.ini
+
+# Optional: ignore virtual environments
+venv/
+.env/
+.env
+
+# Optional: ignore logs
+*.log
